@@ -1,4 +1,4 @@
-# Hi, there is Niugnep 👋  
+# Hi. There's Niugnep 👋  
 **Nice to meet you.**
   
 ## About Me  
