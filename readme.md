@@ -50,6 +50,9 @@
 ## 🌐 Websites  
  * **📋 [Niugnep's blog](https://niugnep.idv.tw/)** - Niugnep's Chinese blog.  
  * **✨ [Where is my Qiqi?](https://qiqi.niugnep.idv.tw/)** - A meme-style one-page website about playing Genshin Impact on Arch Linux.  
+
+## 🔭Looking for
+I wish I'm not a boring adult, so there's no boring "looking for".
   
 ## ☎️ Contact  
  * ✉️ Email - [penguin@niugnep.idv.tw](mailto:penguin@niugnep.idv.tw)  
