@@ -1,7 +1,7 @@
 # Hi. There's Niugnep 👋  
 **Nice to meet you.**
   
-## About Me  
+## 🐱 About Me  
  * 🎂 14 years old
  * 🇹🇼 Came from Taiwan
  * ❤️ Open source lover
@@ -52,10 +52,14 @@
  * **✨ [Where is my Qiqi?](https://qiqi.niugnep.idv.tw/)** - A meme-style one-page website about playing Genshin Impact on Arch Linux.  
 
 ## 🔭Looking for
-I wish I'm not a boring adult, so there's no boring "looking for".
+I wish I'm not a [boring adult](https://github.com/JohnMwendwa), so there's no boring "looking for".
   
 ## ☎️ Contact  
  * ✉️ Email - [penguin@niugnep.idv.tw](mailto:penguin@niugnep.idv.tw)  
  * 🔢 Matrix - @niugnep65535:matrix.org    
  * ⛰️ Codeberg - [@niugnep87](https://codeberg.org/niugnep87)  
  * 🔑 GnuPG(OpenPGP) - [338A E72F 23DE 1D38 C89C F1DF 6087 0264 2EC6 1B5C](https://keys.openpgp.org/search?q=penguin%40niugnep.idv.tw)  
+
+---
+
+I hope marry Arch Linux-chan
