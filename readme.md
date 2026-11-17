@@ -42,7 +42,8 @@
 ## 🏆 Achievements  
  * 🥉 Bronze Medal - IT Software Solutions for Business (Junior), 56th National Skills Competition    
  * 🥉 Bronze Medal - IT Software Solutions for Business (Junior), 56th National Skills Competition - Northern Region
- * 
+ * 📜 Passed - Certiport ITS Certification: Python (838/1000)
+ * 📜 Passed - Certiport ITS Certification: JavaScript (920/1000)
   
 ## 🔥 Best Projects  
  * **📨 [ResendMailer](https://github.com/Niugnep65535/ResendMailer)** - A lightweight Python-based Resend TUI mailer  
@@ -58,27 +59,25 @@
  * **✨ [Where is my Qiqi?](https://qiqi.niugnep.idv.tw/)** - A meme-style one-page website about playing Genshin Impact on Arch Linux.  
 
 ## 🔭 Looking for
-I wish I'm not a [boring adult](https://github.com/JohnMwendwa), so there's no boring "looking for".
+~~I wish I'm not a [boring adult](https://github.com/JohnMwendwa), so there's no boring "looking for".~~ Well, I'm looking for something right now.
+ 
+ * Avalonia UI development
+ * Android development
+ * Python FastAPI development
   
 ## ☎️ Contact  
  * ✉️ Email - penguin at niugnep dot idv dot tw
  * 🔢 Matrix - @niugnep65535:matrix.org    
  * ⛰️ Codeberg - [@niugnep87](https://codeberg.org/niugnep87)  
- * 🔑 GnuPG(OpenPGP) - [338A E72F 23DE 1D38 C89C F1DF 6087 0264 2EC6 1B5C](https://keys.openpgp.org/search?q=https://keys.openpgp.org/search?q=338AE72F23DE1D38C89CF1DF608702642EC61B5C)  
+ * 🔑 GnuPG(OpenPGP) - [338A E72F 23DE 1D38 C89C F1DF 6087 0264 2EC6 1B5C](https://keys.openpgp.org/search?q=338AE72F23DE1D38C89CF1DF608702642EC61B5C)  
 
 ---
 
 Will I become a femboy if I use Niri?
 
-
-
-
-
-
-
 <details>
 <summary>......</summary>
-Why you're here?
+Why are you here?
 
-or... you **love** me?
+or... do you **love** me?
 </details>
