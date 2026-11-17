@@ -1,5 +1,7 @@
-## Keep Android Open
-Google is changing the way you install apps on your device. Stopping them is ***EVERYONE***'s responsibility. Details: [https://keepandroidopen.org/](https://keepandroidopen.org/)
+ > [!CAUTION]
+ > Google is changing the way you install apps on your device. Stopping them is ***EVERYONE***'s responsibility.
+ > **Please support KeepAndroidOpen!**
+ > [https://keepandroidopen.org/](https://keepandroidopen.org/)
 
 # Ciallo～ (∠・ω< )⌒★ <br>Niugnep here 👋  
 **Nice to meet you.**
