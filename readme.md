@@ -59,11 +59,12 @@
  * **✨ [Where is my Qiqi?](https://qiqi.niugnep.idv.tw/)** - A meme-style one-page website about playing Genshin Impact on Arch Linux.  
 
 ## 🔭 Looking for
-~~I wish I'm not a [boring adult](https://github.com/JohnMwendwa), so there's no boring "looking for".~~ Well, I'm looking for something right now.
+~~I wish I'm not a [boring adult](https://github.com/JohnMwendwa), so there's no boring "looking for".~~  
+Well, I guess I'm looking for something after all:
  
- * Avalonia UI development
- * Android development
- * Python FastAPI development
+ * Avalonia UI
+ * Kotlin & Android
+ * Python FastAPI
   
 ## ☎️ Contact  
  * ✉️ Email - penguin at niugnep dot idv dot tw
@@ -72,6 +73,8 @@
  * 🔑 GnuPG(OpenPGP) - [338A E72F 23DE 1D38 C89C F1DF 6087 0264 2EC6 1B5C](https://keys.openpgp.org/search?q=338AE72F23DE1D38C89CF1DF608702642EC61B5C)  
 
 ---
+
+Thanks to ChatGPT for their help with grammar corrections. (not a native speaker lol)
 
 Will I become a femboy if I use Niri?
 
