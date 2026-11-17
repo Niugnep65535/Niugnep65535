@@ -39,13 +39,14 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Niugnep65535&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niugnep65535&theme=github_dark)|  
 <!-- GitHub Status section made by GPRM ( https://gprm.itsvg.in ) -->  
   
-## 🏆Achievements  
+## 🏆 Achievements  
  * 🥉 Bronze Medal - IT Software Solutions for Business (Junior), 56th National Skills Competition    
- * 🥉 Bronze Medal - IT Software Solutions for Business (Junior), 56th National Skills Competition - Northern Region   
+ * 🥉 Bronze Medal - IT Software Solutions for Business (Junior), 56th National Skills Competition - Northern Region
+ * 
   
 ## 🔥 Best Projects  
  * **📨 [ResendMailer](https://github.com/Niugnep65535/ResendMailer)** - A lightweight Python-based Resend TUI mailer  
- * **🌲 [NightlyTree](https://github.com/Niugnep65535/NightlyTree)** - A lightweight night light application, based on .NET Framework 2.0 for compatibility.  
+ * **🌲 [NightlyTree](https://github.com/Niugnep65535/NightlyTree)** - A lightweight night-light application, based on .NET Framework 2.0 for compatibility.  
  * **🪟 [Debian2Windows](https://github.com/StupidestJack/Debian2Windows)** - A Debian apt repository for 'Transfer Windows things to Linux' projects.  
   
 ## 🤝 Contributed Projects  
@@ -56,14 +57,14 @@
  * **📋 [Niugnep's blog](https://niugnep.idv.tw/)** - Niugnep's Chinese blog.  
  * **✨ [Where is my Qiqi?](https://qiqi.niugnep.idv.tw/)** - A meme-style one-page website about playing Genshin Impact on Arch Linux.  
 
-## 🔭Looking for
+## 🔭 Looking for
 I wish I'm not a [boring adult](https://github.com/JohnMwendwa), so there's no boring "looking for".
   
 ## ☎️ Contact  
  * ✉️ Email - penguin at niugnep dot idv dot tw
  * 🔢 Matrix - @niugnep65535:matrix.org    
  * ⛰️ Codeberg - [@niugnep87](https://codeberg.org/niugnep87)  
- * 🔑 GnuPG(OpenPGP) - [338A E72F 23DE 1D38 C89C F1DF 6087 0264 2EC6 1B5C](https://keys.openpgp.org/search?q=penguin%40niugnep.idv.tw)  
+ * 🔑 GnuPG(OpenPGP) - [338A E72F 23DE 1D38 C89C F1DF 6087 0264 2EC6 1B5C](https://keys.openpgp.org/search?q=https://keys.openpgp.org/search?q=338AE72F23DE1D38C89CF1DF608702642EC61B5C)  
 
 ---
 
