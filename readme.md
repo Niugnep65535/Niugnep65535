@@ -1,13 +1,13 @@
 ## Keep Android Open
 Google is changing the way you install apps on your device. Stopping them is ***EVERYONE***'s responsibility. Details: [https://keepandroidopen.org/](https://keepandroidopen.org/)
 
-# Ciallo～ (∠・ω< )⌒★ <br>There's Niugnep 👋  
+# Ciallo～ (∠・ω< )⌒★ <br>Niugnep here 👋  
 **Nice to meet you.**
    
 ## 🐱 About Me  
  * 🎂 14 years old
- * 🇹🇼 Came from Taiwan
- * ❤️ Open source lover
+ * 🇹🇼 Taiwanese
+ * ❤️ Open-source enthusiast
  * 🍝 Spaghetti code maker
 
 ## 📚 Stack
@@ -58,7 +58,7 @@ Google is changing the way you install apps on your device. Stopping them is ***
 I wish I'm not a [boring adult](https://github.com/JohnMwendwa), so there's no boring "looking for".
   
 ## ☎️ Contact  
- * ✉️ Email - [penguin@niugnep.idv.tw](mailto:penguin@niugnep.idv.tw)  
+ * ✉️ Email - penguin at niugnep dot idv dot tw
  * 🔢 Matrix - @niugnep65535:matrix.org    
  * ⛰️ Codeberg - [@niugnep87](https://codeberg.org/niugnep87)  
  * 🔑 GnuPG(OpenPGP) - [338A E72F 23DE 1D38 C89C F1DF 6087 0264 2EC6 1B5C](https://keys.openpgp.org/search?q=penguin%40niugnep.idv.tw)  
