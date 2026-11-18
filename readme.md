@@ -51,6 +51,7 @@
  * **📨 [ResendMailer](https://github.com/Niugnep65535/ResendMailer)** - A lightweight Python-based Resend TUI mailer  
  * **🌲 [NightlyTree](https://github.com/Niugnep65535/NightlyTree)** - A lightweight night-light application, based on .NET Framework 2.0 for compatibility.  
  * **🪟 [Debian2Windows](https://github.com/StupidestJack/Debian2Windows)** - A Debian apt repository for 'Transfer Windows things to Linux' projects.  
+ * **🚫 [anti-spam-mail](https://github.com/Niugnep65535/anti-spam-mail)** - A customizable mesugaki-style blocklist for Cloudflare Email Routing
   
 ## 🤝 Contributed Projects  
  * **⌨️ [ryanchiu-1210](https://github.com/ryanchiu-1210)/[typingPractice_Console](https://github.com/ryanchiu-1210/typingPractice_Console)** - A console typing practice program.  
