@@ -6,7 +6,7 @@
 `CFLAGS = -catears -cattail -O0mandarin -O0science`
 
 # Ciallo～ (∠・ω< )⌒★ <br>Niugnep here 👋  
-A 14-year-old student from Taiwan. I'm also an Arch Linux user (btw), an open-source enthusiast, and a speghetti code generator. **Nice to meet you.**
+A 14-year-old student from Taiwan. I'm also an Arch Linux user (btw), an open-source enthusiast, and a spaghetti code generator. **Nice to meet you.**
 
 ## 📚 Stack
 ### 🌐 Web Development
