@@ -4,13 +4,7 @@
  > [https://keepandroidopen.org/](https://keepandroidopen.org/)
 
 # Ciallo～ (∠・ω< )⌒★ <br>Niugnep here 👋  
-**Nice to meet you.**
-   
-## 🐱 About Me  
- * 🎂 14 years old
- * 🇹🇼 Taiwanese
- * ❤️ Open-source enthusiast
- * 🍝 Spaghetti code maker
+A 14-year-old student from Taiwan. I'm also an Arch Linux user (btw), and an open-source enthusiant. **Nice to meet you.**
 
 ## 📚 Stack
 ### 🌐 Web Development
@@ -62,7 +56,7 @@
  * **✨ [Where is my Qiqi?](https://qiqi.niugnep.idv.tw/)** - A meme-style one-page website about playing Genshin Impact on Arch Linux.  
 
 ## 🔭 Looking for
-~~I wish I'm not a [boring adult](https://github.com/JohnMwendwa), so there's no boring "looking for".~~  
+~~I wish I'm not a boring adult, so there's no boring "looking for".~~  
 Well, I guess I'm looking for something after all:
  
  * Avalonia UI
@@ -77,7 +71,7 @@ Well, I guess I'm looking for something after all:
 
 ---
 
-Thanks to ChatGPT for their help with grammar corrections. (not a native speaker lol)
+Thanks to ChatGPT for its help with grammar corrections. (not a native speaker lol)
 
 Will I become a femboy if I use Niri?
 
