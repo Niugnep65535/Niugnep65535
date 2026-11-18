@@ -3,8 +3,10 @@
  > **Please support Keep Android Open!**
  > [https://keepandroidopen.org/](https://keepandroidopen.org/)
 
+`CFLAGS = -catears -cattail -O0mandarin -O0science`
+
 # Ciallo～ (∠・ω< )⌒★ <br>Niugnep here 👋  
-A 14-year-old student from Taiwan. I'm also an Arch Linux user (btw), and an open-source enthusiant. **Nice to meet you.**
+A 14-year-old student from Taiwan. I'm also an Arch Linux user (btw), an open-source enthusiast, and a speghetti code generator. **Nice to meet you.**
 
 ## 📚 Stack
 ### 🌐 Web Development
@@ -73,7 +75,7 @@ Well, I guess I'm looking for something after all:
 
 Thanks to ChatGPT for its help with grammar corrections. (not a native speaker lol)
 
-Will I become a femboy if I use Niri?
+Will I become a femboy if I use Niri or Hyprland?
 
 <details>
 <summary>......</summary>
