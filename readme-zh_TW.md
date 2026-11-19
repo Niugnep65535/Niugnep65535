@@ -1,5 +1,5 @@
  > [!CAUTION]
- > Google 正在更改你在你的裝置上安裝軟體的方式，阻止他們是***所有人***的責任。  
+ > Google 正在更改你在你的裝置上安裝軟體的方式，阻止這件事是***所有人***的責任。  
  > **請支援 Keep Android Open！**
  > [https://keepandroidopen.org/](https://keepandroidopen.org/)
 
@@ -49,7 +49,7 @@
  * **📨 [ResendMailer](https://github.com/Niugnep65535/ResendMailer)**：一個輕量的 Python Resend API TUI 信件軟體
  * **🌲 [NightlyTree](https://github.com/Niugnep65535/NightlyTree)**：一個輕量的夜燈程式，基於 .NET Framework 2.0 以保證相容性
  * **🪟 [Debian2Windows](https://github.com/StupidestJack/Debian2Windows)**：一個存放「移植 Windows 的 xxx 到 Linux」專案的 Debian 倉庫
- * **🚫 [anti-spam-mail](https://github.com/Niugnep65535/anti-spam-mail)**：一個可自訂的，用於 Cloudflare Email Routing 雌小鬼風垃圾郵件攔截器
+ * **🚫 [anti-spam-mail](https://github.com/Niugnep65535/anti-spam-mail)**：一個可自訂的，用於 Cloudflare Email Routing 雌小鬼風垃圾郵件攔截清單
   
 ## 🤝 貢獻的專案
  * **⌨️ [ryanchiu-1210](https://github.com/ryanchiu-1210)/[typingPractice_Console](https://github.com/ryanchiu-1210/typingPractice_Console)**：一個終端機打字軟體
@@ -75,7 +75,7 @@
 
 ---
 
-感謝 ChatGPT 對英文版的語法修正（非英文母語人士 XD）
+感謝 ChatGPT 的語法修正（國文老師不要打我 QQ）
 
 
 
