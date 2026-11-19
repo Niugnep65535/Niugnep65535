@@ -75,11 +75,25 @@ Well, I guess I'm looking for something after all:
 
 Thanks to ChatGPT for its help with grammar corrections. (not a native speaker lol)
 
-Will I become a femboy if I use Niri or Hyprland?
+
 
 <details>
-<summary>......</summary>
-Why are you here?
-
-or... do you **love** me?
+<summary>🥚</summary>
+Will I become a femboy if I use Niri or Hyprland?
 </details>
+
+<!--
+原始碼讓我放一段歌詞中二一下
+
+只因為
+你那渴望自由的心臟
+困在一張沒空隙的網
+我們的周圍並非沒光亮
+只是太耀眼將我們灼傷
+在這個世界難免會迷茫
+但別再把小刀帶在身上
+至少我還在為你而歌唱
+在黑暗蔓長的反烏托邦
+即便我們都在這黑暗蔓長的反烏托邦
+ － 烏托邦 P 《反烏托邦》
+-->
