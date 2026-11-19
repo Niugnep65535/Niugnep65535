@@ -27,7 +27,7 @@
 ![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=flat-square&logo=rockylinux&logoColor=white)
 
 
-### 💻 其它
+### 💻 其他
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -41,7 +41,7 @@
   
 ## 🏆 成就  
  * 🥉 第 56 屆技能競賽青少年組商務軟體設計決賽銅牌
- * 🥉 第 56 屆技能競賽青少年組商務軟體設計決賽銅牌
+ * 🥉 第 56 屆技能競賽青少年組商務軟體設計北區分區賽銅牌
  * 📜 通過 Certiport ITS 認證：Python（838/1000）
  * 📜 通過 Certiport ITS 認證：JavaScript（920/1000）
   
