@@ -3,6 +3,8 @@
  > **Please support Keep Android Open!**
  > [https://keepandroidopen.org/](https://keepandroidopen.org/)
 
+[zh_TW](readme-zh_TW.md)
+
 `CFLAGS = -catears -cattail -O0mandarin -O0science`
 
 # Ciallo～ (∠・ω< )⌒★ <br>Niugnep here 👋  
