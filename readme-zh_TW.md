@@ -1,5 +1,5 @@
  > [!CAUTION]
- > Google 正在更改你在你的裝置上安裝軟體的方式，阻止他們是***所有人***的責任。
+ > Google 正在更改你在你的裝置上安裝軟體的方式，阻止他們是***所有人***的責任。  
  > **請支援 Keep Android Open！**
  > [https://keepandroidopen.org/](https://keepandroidopen.org/)
 
