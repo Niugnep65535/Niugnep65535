@@ -34,10 +34,12 @@ A 14-year-old student from Taiwan. I'm also an Arch Linux user (btw), an open-so
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   
 ## 🐙 GitHub Status  
+<center>
 ![](https://github-readme-stats.shion.dev/api?username=Niugnep65535&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![streak](https://streak-stats.demolab.com/?user=Niugnep65535&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Niugnep65535&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niugnep65535&theme=github_dark)
+</center>
 <!-- GitHub Status section made by GPRM ( https://gprm.itsvg.in ) -->  
   
 ## 🏆 Achievements  
